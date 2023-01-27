@@ -18,10 +18,10 @@ INSERT INTO employee (first_name, last_name, job_id, manager_id)
 VALUES 
 
 ('Gendo', 'Ikari',1, NULL),
-('Misato', 'Katsuragi',2,1),
-('Shinji', 'Ikari',3,2),
-('Asuka', 'Langley-Soryu',4,NULL),
-('Rei', 'Ayanami',5,4),
-('Ritsuko', 'Akagi',6,NULL),
-('Ryoji', 'Kaji',7,NULL);
+('Misato', 'Katsuragi',2,02),
+('Shinji', 'Ikari',3,03),
+('Asuka', 'Langley-Soryu',4,04),
+('Rei', 'Ayanami',5,05),
+('Ritsuko', 'Akagi',6,06),
+('Ryoji', 'Kaji',7,07);
 
